@@ -5,7 +5,7 @@
 venv/
 ENV/
 env/
-
+.mescouillous
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
